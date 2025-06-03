@@ -35,7 +35,7 @@ It also applies when an individual is representing **drjve** in a public capacit
 
 ## 🧾 Reporting and Enforcement
 
-Violations of this Code of Conduct may be reported by contacting us at **conduct@drjve.com** (or another internal contact method of your choosing).
+Violations of this Code of Conduct may be reported by contacting us at **info@drjve.de** (or another internal contact method of your choosing).
 
 All reports will be reviewed and investigated promptly and confidentially. Actions may include warnings, temporary restrictions, or removal from the community, depending on the severity.
 
