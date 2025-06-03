@@ -13,7 +13,7 @@ If you believe you've found a security vulnerability in a drjve project, please 
 
 Instead, report it responsibly by emailing:
 
-📧 **security@drjve.com**
+📧 **info@drjve.de**
 
 Include the following:
 
