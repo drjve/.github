@@ -17,6 +17,7 @@ This `.github` repository defines **default community health files** for all rep
 - `ISSUE_TEMPLATE/` – Default templates for bug reports and feature requests
 - `PULL_REQUEST_TEMPLATE.md` – Standard pull request format
 - `SECURITY.md` – How to report security issues
+- `ROLES.md` - Explaination on roles and teams for drjve's repositories
 - `FUNDING.yml` – GitHub sponsorship links (if applicable)
 
 These files apply **automatically** to all drjve repos unless overridden locally.
